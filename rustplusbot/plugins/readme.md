@@ -20,3 +20,7 @@ Requirements:
 
 Issues:
 - Messages sent from Discord still end up in the "logs" channel
+
+## Raid Odds
+
+An 8-ball-like command that gives you a Rust-inspired fortune, foretelling your raiding success. 

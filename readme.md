@@ -20,10 +20,10 @@ My collection of files and scripts for the game Rust.
 
 #### rustplusbot/plugins
 
-| File                  | Feature                                                              |
-| ----                  | -------                                                              |
+| File                  | Feature                                                               |
+| ----                  | -------                                                               |
 | `messagerouter.js`    | Routes messages to the configured discord channel                     |
-| `raidodds.js`         | 8-ball-like command that tells you if a raid will be successful       |
+| `raidodds.js`         | 8-ball-like command that foretells your raid success                  |
 | `timenotif.js`        | Periodically sends a message to teamchat, reminding you of the time   |
 
 ### Settings
